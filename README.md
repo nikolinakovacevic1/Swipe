@@ -1,3 +1,3 @@
 Website link:
 
-[https://swipeapp.netlify.app/] 
+https://swipeapp.netlify.app/
